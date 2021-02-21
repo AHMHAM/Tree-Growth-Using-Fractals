@@ -1,5 +1,4 @@
 # Tree-Growth-Using-Fractals
-Install GLUT and run.
+Using Fractals to Simulate tree growth overtime.
 
-
-Some example photos are provided.
+Install GLUT and run. Some example photos are provided.
